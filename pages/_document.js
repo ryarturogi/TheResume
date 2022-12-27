@@ -1,14 +1,14 @@
-import { Head, Html, Main, NextScript } from 'next/document'
+import { Head, Html, Main, NextScript } from 'next/document';
 
 export default function Document() {
   return (
-    <Html lang='en'>
+    <Html lang="en">
       <Head>
-        <link rel='preconnect' href='https://fonts.googleapis.com' />
-        <link rel='preconnect' href='https://fonts.gstatic.com' crossorigin />
+        <link href="https://fonts.googleapis.com" rel="preconnect" />
+        <link crossOrigin="true" href="https://fonts.gstatic.com" rel="preconnect" />
         <link
-          href='https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Oswald:wght@400;500;600;700&display=swap'
-          rel='stylesheet'
+          href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Oswald:wght@400;500;600;700&display=swap"
+          rel="stylesheet"
         />
       </Head>
 
@@ -17,5 +17,5 @@ export default function Document() {
         <NextScript />
       </body>
     </Html>
-  )
+  );
 }
