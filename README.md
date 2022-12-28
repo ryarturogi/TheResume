@@ -13,21 +13,7 @@ LinkedIn: [ryarturogi](https://www.linkedin.com/in/ryarturogi)
 
 ## About Me
 
-I am a frontend developer with experience in HTML, CSS, and JavaScript. I have a strong understanding of responsive design and have worked on projects using frameworks such as React and Angular. I am passionate about building intuitive and user-friendly web applications.
-
-## Skills
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-- Responsive design
-- User experience (UX) design
-
-## Projects
-
-- [Project 1](https://github.com/ryarturogi/entry-level): A web application built with React and Next.js that allows users to search for and save the favorite jobs the are interest in, a job board for entry level designers/developers/marketeers, etc.
+8+ years of experience and a strong track record of delivering successful projects. Proficient in React, Vue, Nuxt.js, and Next.js. Proven ability to mentor junior developers and deliver innovative, customer-focused solutions. Experienced in leading teams and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement.
 
 ## Deployment
 
