@@ -104,8 +104,15 @@
     {
       "career": "Graphic Design",
       "institution": "Universidad APEC",
-      "degree": "Bachelor",
+      "degree": "Incomplete bachelor's",
       "dates": "2006 - 2008",
+      "location": "Santo Domingo, Dominican Republic"
+    },
+    {
+      "career": "High-School",
+      "institution": "Colegio Arroyo Hondo",
+      "degree": "High-School Diploma",
+      "dates": "2002 - 2006",
       "location": "Santo Domingo, Dominican Republic"
     }
   ],
