@@ -3,7 +3,7 @@
   "title": "Sr. Frontend Developer",
   "email": "r.arturogi@gmail.com",
   "phone": "+1829-513-7582",
-  "summary": "8+ years of front-end engineering interfaces with a strong track record of delivering successful projects. Proven ability in mentoring junior developers and delivering innovative, customer-focused solutions. Experienced in working with teams around the world and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement.",
+  "summary": "8+ years of experience as a front-end developer, Strong track record delivering high-impact software solutions and mentoring junior developers. Expertise in JavaScript libraries and frameworks such as Vue 3, React 18, Next.js 13, and Nuxt 3, combined with proficiency in state management systems and tools such as Redux and Vuex, allows me to craft scalable and performant applications that drive business growth. Expert in front-end development, Skilled in developing custom design systems using tools such as Tailwind CSS, which allows me to create visually stunning user experiences that leave a lasting impression. Also Skilled in onboarding and mentoring junior developers, helping them to reach their full potential and achieve our shared goals.",
   "twitter": "https://twitter.com/ryarturogi",
   "linkedin": "https://linkedin.com/in/ryarturogi",
   "portfolio": "https://ryarturogi.github.io",
@@ -21,21 +21,23 @@
       "location": "El Salvador - Remote",
       "type": "Full-time",
       "responsibilities": [
-        "Collaborating with cross-functional teams to define, design, and ship new features.",
-        "Mentoring junior developers and providing technical guidance and support.",
-        "Developing and maintaining a reusable codebase for front-end components and libraries.",
-        "Conducting code reviews and ensuring the quality and performance of the codebase.",
-        "Participating in agile ceremonies, including daily stand-ups, sprint planning, and retrospectives.",
-        "Work as part of the staff augmentation team, focusing on providing support to American companies as part of the USA team."
+        "Lead junior frontend development teams to develop complex projects and designed/implemented technical solutions for the company",
+        "Work with cross-functional teams to define technical requirements and architecture for new features/products and ensure that the technical solutions are aligned with the business goals",
+        "Implement advanced performance optimization techniques such as code splitting, lazy loading, and server-side rendering to improve the performance of the web applications",
+        "Develop custom design systems and style guides to ensure design consistency and maintainability across multiple products/platforms and work with the design team to implement the designs",
+        "Collaborate with the security team to implement various security measures such as CORS, XSS protection, and content security policies to ensure the security of the web applications",
+        "Work with the QA team to develop and maintain automated testing frameworks and integrations to ensure the quality of the web applications"
       ],
       "accomplishments": [
-        "Implemented agile development processes that increased team productivity by 25%.",
-        "Improved code quality and performance through regular code reviews and mentoring - Conducted regular code reviews that resulted in the resolution of 95% of identified issues.",
-        "Developed 20 reusable components and libraries that resulted in a 20% increase in code reuse.",
-        "Stay up-to-date with the latest front-end technologies and best practices by dedicating 20% of my time to learning and training.",
-        "Contributed to a positive and supportive team culture by being a mentor and leader - Mentored 3 team members and received positive feedback from 90% of team members who reported feeling more supported as a result.",
-        "Successfully provided staff augmentation support to 5 American companies, resulting in increased efficiency and productivity for each client by 25%",
-        "Developed and implemented custom solutions for each American company, resulting in a satisfaction rate of 95%"
+        "Contributed to the development of a new module for local sellers on the #1 Salvadoran e-commerce website, providing a platform for SMBs to sell products online and increasing revenue by 20%",
+        "Created a dynamic and interactive dashboard for financial reporting application using Vue, improving the data visualization and usability of the Credicomer: Banca digital application by 30%",
+        "Worked with the design team to develop a cohesive visual style for the AlayaCare SaaS platform using Tailwind CSS and Vue, improving the user experience and increasing customer retention by 10%",
+        "Led team of 4-6 front-end developers to develop a financial banking system web app using React and Next.js for Credicomer, a Salvadorean bank with over 1 million customers",
+        "Collaborated with back-end developers to integrate a series of API calls using Next.js, improving data retrieval and overall functionality of the application",
+        "Trained and mentored junior front-end developers, resulting in improved efficiency and productivity within the team and a 20% reduction in development time",
+        "Worked with project managers to develop detailed project plans and deliverables, ensuring timely and successful project completion for companies in the USA and internationally (El Salvador, Guatemala, Colombia, and Mexico)",
+        "Implemented server-side rendering solution using Next.js that improved initial page load time by 50% and increased SEO visibility by 30%",
+        "Developed and maintained TypeScript array utility library that has been downloaded over 5,000 times on npm and is widely used within the community to improve code readability and maintainability"
       ]
     },
     {
