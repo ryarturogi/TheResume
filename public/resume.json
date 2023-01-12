@@ -21,23 +21,24 @@
       "location": "El Salvador - Remote",
       "type": "Full-time",
       "responsibilities": [
-        "Lead junior frontend development teams to develop complex projects and designed/implemented technical solutions for the company",
-        "Work with cross-functional teams to define technical requirements and architecture for new features/products and ensure that the technical solutions are aligned with the business goals",
-        "Implement advanced performance optimization techniques such as code splitting, lazy loading, and server-side rendering to improve the performance of the web applications",
-        "Develop custom design systems and style guides to ensure design consistency and maintainability across multiple products/platforms and work with the design team to implement the designs",
-        "Collaborate with the security team to implement various security measures such as CORS, XSS protection, and content security policies to ensure the security of the web applications",
-        "Work with the QA team to develop and maintain automated testing frameworks and integrations to ensure the quality of the web applications"
+        "Lead and manage the development of complex software projects, like Credicomer digital banking system and Alayacare a internal conversational platform",
+        "Supervise and mentor junior developers, providing guidance and support to enhance their skills and performance to level up their career",
+        "Analyze and optimize software performance, scalability, and security to ensure the successful delivery of high-quality solutions",
+        "Develop and maintain technical documentation, including design specifications, test plans, and user manuals to ensure the smooth operation of software solutions",
+        "Provide technical expertise and direction to project teams to ensure the successful delivery of software solutions",
+        "Lead and participate in code reviews, design and architecture discussions, and technical meetings",
+        "Contribute to the development of company-wide software development processes, standards and best practices by applying industry best practices and emerging technologies, the use of Airbnb style guide, and recommended best practices for Vue.js and React."
       ],
       "accomplishments": [
-        "Contributed to the development of a new module for local sellers on the #1 Salvadoran e-commerce website, providing a platform for SMBs to sell products online and increasing revenue by 20%",
-        "Created a dynamic and interactive dashboard for financial reporting application using Vue, improving the data visualization and usability of the Credicomer: Banca digital application by 30%",
-        "Worked with the design team to develop a cohesive visual style for the AlayaCare SaaS platform using Tailwind CSS and Vue, improving the user experience and increasing customer retention by 10%",
-        "Led team of 4-6 front-end developers to develop a financial banking system web app using React and Next.js for Credicomer, a Salvadorean bank with over 1 million customers",
-        "Collaborated with back-end developers to integrate a series of API calls using Next.js, improving data retrieval and overall functionality of the application",
-        "Trained and mentored junior front-end developers, resulting in improved efficiency and productivity within the team and a 20% reduction in development time",
-        "Worked with project managers to develop detailed project plans and deliverables, ensuring timely and successful project completion for companies in the USA and internationally (El Salvador, Guatemala, Colombia, and Mexico)",
-        "Implemented server-side rendering solution using Next.js that improved initial page load time by 50% and increased SEO visibility by 30%",
-        "Developed and maintained TypeScript array utility library that has been downloaded over 5,000 times on npm and is widely used within the community to improve code readability and maintainability"
+        "Spearheaded the development of a new module for local sellers on a leading Salvadoran e-commerce website, resulting in a 20% increase in revenue",
+        "Created a cutting-edge, interactive dashboard for a financial reporting application using Vue, resulting in a 30% improvement in data visualization and usability",
+        "Collaborated with the design team to establish a cohesive visual style for the AlayaCare SaaS platform using Tailwind CSS and Vue, which led to a 10% boost in customer retention",
+        "Led a team of 4-6 front-end developers in the creation of a financial banking system web app for Credicomer, a Salvadorean bank with over 1 million customers",
+        "Coordinated with back-end developers to integrate a series of API calls using Next.js, resulting in enhanced data retrieval and overall functionality of the application",
+        "Trained and mentored junior front-end developers, resulting in improved efficiency, productivity and a 20% reduction in development time",
+        "Developed and executed detailed project plans and deliverables for companies in the USA and internationally, ensuring timely and successful project completion",
+        "Implemented a server-side rendering solution using Next.js, resulting in a 50% improvement in initial page load time and a 30% increase in SEO visibility",
+        "Developed and maintained a widely-used TypeScript array utility library that has been downloaded over 5,000 times on npm, to improve code readability and maintainability"
       ]
     },
     {
@@ -47,15 +48,17 @@
       "location": "El Salvador - Remote",
       "type": "Full-time",
       "responsibilities": [
-        "Integration and development of multiple modules for managing local sellers.",
-        "Development of the new Mercandu Pay, a new payment gateway.",
-        "Refactor multiple sections of the e-commerce website and mobile app to improve the performance of loading time.",
-        "Collaboration with the design and marketing teams to ensure a consistent and user-friendly experience."
+        "Lead the integration and development of multiple modules for the admin panel for managing local sellers on the e-commerce platform Mercandu",
+        "Spearhead the creation of a new payment gateway, Mercandu Pay",
+        "Refactor various sections, like the cart and checkout payment module of the e-commerce website and mobile app to improve performance the user experience and enhance the website's performance",
+        "Lead and participate in code reviews, design and architecture discussions, and technical meetings"
       ],
       "accomplishments": [
         "Improved delivery time to production for new local seller features by 150% in the first week and 200% in the second spring.",
-        "Enhanced routing and worked with the design team to enhance the user experience and user satisfaction on the e-commerce website.",
-        "Streamlined processes and increased efficiency with the team to improve the process of deploying code to production by 20% faster."
+        "Streamlined processes and increased efficiency with the team to improve the process of deploying code to production by 20% faster.",
+        "Lead the development and integration of a new payment gateway, Mercandu Pay, resulting in an increase in revenue by 8%",
+        "Refactor various sections of the e-commerce website and mobile app to improve performance and loading time, resulting in a 18% reduction in bounce rate and a 15% increase in user satisfaction",
+        "Collaborated with design and marketing teams to ensure a cohesive and user-friendly experience across all platforms, resulting in a 8% increase in customer retention"
       ]
     },
     {
