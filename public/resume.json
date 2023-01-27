@@ -138,16 +138,27 @@
     "Time Management"
   ],
   "hardskills": [
-    "CSS3",
-    "HTML5",
-    "JavaScript",
-    "NoSQL",
-    "NextJs",
-    "NuxtJs",
-    "React",
+    "Javascript",
+    "Typescript",
+    "React.js",
+    "Next.js",
+    "Vue.js",
+    "Nuxt.js",
+    "Vuex",
+    "Pina",
+    "Redux",
     "TailwindCSS",
-    "TypeScript",
-    "VueJs"
+    "REST APIs",
+    "Webpack",
+    "Vite.js",
+    "NoSQL",
+    "Node.js",
+    "AWS",
+    "GraphQL",
+    "GraphQL Apollo",
+    "Git",
+    "Github",
+    "Gitlab"
   ],
   "languages": [
     {
