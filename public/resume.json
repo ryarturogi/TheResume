@@ -3,7 +3,7 @@
   "title": "Sr. Frontend Developer",
   "email": "r.arturogi@gmail.com",
   "phone": "+1829-513-7582",
-  "summary": "8+ years of front-end engineering interfaces with a strong track record of delivering successful projects. Proven ability in mentoring junior developers and delivering innovative, customer-focused solutions. Experienced in working with teams around the world and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement",
+  "summary": "⚡️ 8+ years of engineering web applications with a strong track record of delivering successful projects. Proven ability in mentoring junior/Mid developers and delivering innovative, customer-focused solutions. Experienced in working with teams around the world and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement.",
   "twitter": "https://twitter.com/ryarturogi",
   "linkedin": "https://linkedin.com/in/ryarturogi",
   "portfolio": "https://ryarturogi.github.io",
@@ -15,51 +15,48 @@
   },
   "workExperience": [
     {
-      "title": "Sr. Frontend Developer",
+      "title": "Senior Frontend Developer",
       "company": "Elaniin",
       "dates": "Jan 2021 - Dec 2022",
       "location": "El Salvador - Remote",
       "type": "Full-time",
       "responsibilities": [
-        "Lead and manage the development of complex software projects, like Credicomer digital banking system and Alayacare a internal conversational platform",
-        "Supervise and mentor junior developers, providing guidance and support to enhance their skills and performance to level up their career",
-        "Analyze and optimize software performance, scalability, and security to ensure the successful delivery of high-quality solutions",
-        "Develop and maintain technical documentation, including design specifications, test plans, and user manuals to ensure the smooth operation of software solutions",
-        "Provide technical expertise and direction to project teams to ensure the successful delivery of software solutions",
-        "Lead and participate in code reviews, design and architecture discussions, and technical meetings",
-        "Contribute to the development of company-wide software development processes, standards and best practices by applying industry best practices and emerging technologies, the use of Airbnb style guide, and recommended best practices for Vue.js and React."
+        "Led and managed the development of complex software projects, like the Credicomer digital banking system and Alayacare an internal conversational platform.",
+        "Supervise and mentor junior developers, providing guidance and support to enhance their skills and performance to level up their careers.",
+        "Integrating the front-end with various AWS Amplify services, such as authentication, storage, and APIs, to build robust and scalable solutions.",
+        "Contribute to the development of company-wide software development processes, standards, and best practices by applying industry best practices and emerging technologies, the use of Airbnb style guide, and recommended best practices for Vue.js/Nuxt.js and React/Next.js."
       ],
       "accomplishments": [
-        "Spearheaded the development of a new module for local sellers on a leading Salvadoran e-commerce website, resulting in a 20% increase in revenue",
-        "Created a cutting-edge, interactive dashboard for a financial reporting application using Vue, resulting in a 30% improvement in data visualization and usability",
-        "Collaborated with the design team to establish a cohesive visual style for the AlayaCare SaaS platform using Tailwind CSS and Vue, which led to a 10% boost in customer retention",
-        "Led a team of 4-6 front-end developers in the creation of a financial banking system web app for Credicomer, a Salvadorean bank with over 1 million customers",
-        "Coordinated with back-end developers to integrate a series of API calls using Next.js, resulting in enhanced data retrieval and overall functionality of the application",
-        "Trained and mentored junior front-end developers, resulting in improved efficiency, productivity and a 20% reduction in development time",
-        "Developed and executed detailed project plans and deliverables for companies in the USA and internationally, ensuring timely and successful project completion",
-        "Implemented a server-side rendering solution using Next.js, resulting in a 50% improvement in initial page load time and a 30% increase in SEO visibility",
-        "Developed and maintained a widely-used TypeScript array utility library that has been downloaded over 5,000 times on npm, to improve code readability and maintainability"
-      ]
+        "Spearheaded the development of a new module for local sellers on a leading Salvadoran e-commerce website, resulting in a 20% increase in revenue.",
+        "Developing a high-performance and user-friendly frontend for a financial reporting application (Credicomer) using React/Next.js, Redux, GraphQL, and AWS Amplify, resulting in a 30% improvement in data visualization and usability.",
+        "Collaborated with the design team to establish a cohesive visual style for the AlayaCare SaaS platform using Tailwind CSS and Vue, which led to a 10% boost in customer retention.",
+        "Led a team of 4-6 front-end developers in the creation of a financial banking system web app for Credicomer, a Salvadorean bank with over 1 million customers.",
+        "Trained and mentored junior front-end developers, resulting in improved efficiency, productivity, and a 20% reduction in development time.",
+        "Developed and executed detailed project plans and deliverables for companies in the USA and internationally, ensuring timely and successful project completion.",
+        "Developed and maintained a widely-used TypeScript array utility library that has been downloaded over 5,000 times on npm, to improve code readability and maintainability."
+      ],
+      "technologies": " HTML 5 · CSS3 · JavaScript · TypeScript · JSON · REST APIs · GraphQL · Apollo GraphQL · Git · GitHub · Microsoft Visual Studio Code · Tailwind CSS · Vue.js · React.js · Nuxt.js · Next.js · Redux.js · Node.js · Webpack · Gitlab · Postman · Vite.js · Jest · Unit Testing · Integration Testing · amplify · Amazon Cognito · Amazon S3 · Figma (Software) · English."
     },
     {
-      "title": "Sr. Frontend Developer",
+      "title": "Senior Frontend Developer",
       "company": "Mercandu",
       "dates": "Oct 2022 - Nov 2022",
       "location": "El Salvador - Remote",
       "type": "Full-time",
       "responsibilities": [
-        "Lead the integration and development of multiple modules for the admin panel for managing local sellers on the e-commerce platform Mercandu",
-        "Spearhead the creation of a new payment gateway, Mercandu Pay",
-        "Refactor various sections, like the cart and checkout payment module of the e-commerce website and mobile app to improve performance the user experience and enhance the website's performance",
-        "Lead and participate in code reviews, design and architecture discussions, and technical meetings"
+        "Integration and development of multiple modules for managing local sellers on the e-commerce admin dashboard app.",
+        "Development and integration of the new payment gateway, MDU Pay, on the e-commerce website and mobile app.",
+        "Refactor multiple sections of the e-commerce website and mobile app to improve the performance of loading time and user experience of the website and mobile app.",
+        "Collaboration with the design and marketing teams to ensure a consistent and user-friendly experience for the users of the e-commerce website and mobile app."
       ],
       "accomplishments": [
-        "Improved delivery time to production for new local seller features by 150% in the first week and 200% in the second spring.",
-        "Streamlined processes and increased efficiency with the team to improve the process of deploying code to production by 20% faster.",
-        "Lead the development and integration of a new payment gateway, Mercandu Pay, resulting in an increase in revenue by 8%",
-        "Refactor various sections of the e-commerce website and mobile app to improve performance and loading time, resulting in a 18% reduction in bounce rate and a 15% increase in user satisfaction",
-        "Collaborated with design and marketing teams to ensure a cohesive and user-friendly experience across all platforms, resulting in a 8% increase in customer retention"
-      ]
+        "Improved delivery time to production for new local seller features by 150% in the first week and 200% in the second spring week.",
+        "Enhanced routing and worked with the design team to enhance the user experience and user satisfaction on the e-commerce website and mobile app.",
+        "Streamlined processes and increased efficiency with the team to improve the process of deploying code to production by 50%.",
+        "Reduced the number of bugs by 50% by implementing a new testing process and improving the quality of the code.",
+        "Fixed structural issues with the codebase and improved the performance of the checkout page by 50%. and improved the reliability of the codebase by 50%."
+      ],
+      "technologies": "Axios · Cascading Style Sheets (CSS) · Figma (Software) · Git · GitHub · Gitlab · GraphQL · Apollo GraphQL · HTML · Integration Testing · Jest · JavaScript · Microsoft Visual Studio Code · Nuxt · js · Next · js · Redux · js · Representational State Transfer (REST) · REST APIs · Scrum · Tailwind CSS · TypeScript · Unit Testing · Vue · js · Vuex · Webpack."
     },
     {
       "title": "Frontend Developer",
@@ -75,12 +72,13 @@
         "Staying up-to-date with the latest frontend development trends and techniques, and incorporating them into the website as appropriate."
       ],
       "accomplishments": [
-        "Successfully migrated the website from WordPress to NuxtJs, improving website performance by 50%.",
-        "Developed custom features that improved the user experience and increased website traffic by 20%.",
-        "Utilized a range of technologies to develop and integrate web interfaces, resulting in a satisfaction rate of 95% among users.",
-        "Collaborated effectively with the development team to ensure the smooth operation of the website and the successful implementation of new features.",
-        "Stayed up-to-date with the latest frontend development trends and techniques, resulting in a 25% increase in efficiency and productivity."
-      ]
+        "Successfully migrated the website from WordPress to NuxtJs, improving website performance by 15%.",
+        "Developed a landing page builder and an inquiry management system that resulted in a 20% increase in user satisfaction.",
+        "Developed and integrated web interfaces using Javascript, Vue, and Nuxt.js, improving website functionality by 45%.",
+        "Collaborated effectively with the development team, resulting in the successful implementation of 25 new features.",
+        "Stayed up-to-date with the latest frontend development trends and techniques by dedicating 20% of my time to learning and training, resulting in the incorporation of 5 new technologies into the website."
+      ],
+      "technologies": "Git · Git Flow · GitHub · Vue.js · Vuex · React.js · Redux.js · JavaScript · TypeScript · REST APIs · SEO · MongoDB · HTML · HTML 5 · REST API · JSON · Scrum · Node.js · Web Development · WordPress · Webpack."
     },
     {
       "title": "WordPress Developer",
@@ -88,7 +86,7 @@
       "dates": "Mar 2013 - May 2016",
       "years": "3 years 3 months",
       "location": "Miami, FL, Estados Unidos - Remote",
-      "type": "Contract",
+      "type": "Freelance",
       "responsibilities": [
         "Developing and redesigning the website, doblegroup.com, to ensure that it is user-friendly and performs well.",
         "Creating a landing page system to improve the website's SEO and increase its visibility online.",
@@ -97,12 +95,13 @@
         "Staying up-to-date with the latest web development trends and techniques, and incorporating them into the website as appropriate."
       ],
       "accomplishments": [
-        "Improved website usability by 50% through redesign efforts",
+        "Improved website usability by 50% through redesign efforts.",
         "Increased website traffic by 30% through the implementation of a landing page system",
         "Designed and developed 10 successful email templates that increased customer engagement by 20%",
         "Successfully collaborated with the team to launch several new website features on time and without any issues",
-        "Stayed current on the latest web development trends, leading to the implementation of several innovative features on the website that improved performance and user experience"
-      ]
+        "Stayed current on the latest web development trends, leading to the implementation of several innovative features on the website that improved performance and user experience."
+      ],
+      "technologies": "HTML · CSS  · JavaScript · Bootstrap · Drupal · MySQL · WordPress · WordPress Themes/Plugins · SEO · Google Analytics · XHTML Email Templates"
     }
   ],
   "education": [
