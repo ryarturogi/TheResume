@@ -15,6 +15,26 @@
   },
   "workExperience": [
     {
+      "title": "UI Engineer",
+      "company": "Main Sequence Technology (PCRecruiter)",
+      "dates": "Apr 2023 - Aug 2024",
+      "location": "Cleveland, Ohio - Remote",
+      "type": "Full-time",
+      "responsibilities": [
+        "Implemented UI components and maintained the design system for the PCRecruiter project.",
+        "Created and managed a comprehensive Storybook, documenting the entire design system and all necessary UI components for PCR9 and PCR10 projects.",
+        "Collaborated closely with development and design teams to align technical implementation with design specifications.",
+        "Conducted thorough testing, including end-to-end (EE) tests, to ensure the reliability and maintainability of UI components."
+      ],
+      "accomplishments": [
+        "Developed a Storybook that became the central hub for design documentation, streamlining the development process and ensuring consistency across the projects.",
+        "Gained extensive experience with Storybook, React, TypeScript, and UnoCSS through testing and end-to-end tests, significantly contributing to the project's success.",
+        "Collaborated with the design team to establish a cohesive visual style for the AlayaCare SaaS platform using Tailwind CSS and Vue, which led to a 10% boost in customer retention.",
+        "Despite the company's policy against salary improvements, gained valuable experience in UI engineering and design system management."
+      ],
+      "technologies": "React.js · TypeScript · JSON · REST APIs · Git · Azure Devops · UnoCSS (TailwindCSS preset) · Storybook · Vite.js · Vitest · Unit Testing · Integration Testing · Figma."
+    },
+    {
       "title": "Senior Frontend Developer",
       "company": "Elaniin",
       "dates": "Jan 2021 - Dec 2022",
