@@ -29,7 +29,7 @@
       "accomplishments": [
         "Developed a Storybook that became the central hub for design documentation, streamlining the development process and ensuring consistency across the projects.",
         "Gained extensive experience with Storybook, React, TypeScript, and UnoCSS through testing and end-to-end tests, significantly contributing to the project's success.",
-        "Collaborated with the design team to establish a cohesive visual style for the AlayaCare SaaS platform using Tailwind CSS and Vue, which led to a 10% boost in customer retention.",
+        "Collaborated with the design team to establish a cohesive visual style for the PCRecruiter SaaS platform using Tailwind CSS and Vue, which led to a 10% boost in customer retention.",
         "Despite the company's policy against salary improvements, gained valuable experience in UI engineering and design system management."
       ],
       "technologies": "React.js · TypeScript · JSON · REST APIs · Git · Azure Devops · UnoCSS (TailwindCSS preset) · Storybook · Vite.js · Vitest · Unit Testing · Integration Testing · Figma."
