@@ -36,7 +36,7 @@ function HomePage() {
             </li>
             <li className='after:mx-2 after:text-gray-900 after:relative after:content-["•"]'>
               <Link href={data.twitter} title="Twitter">
-                Twitter
+                X
               </Link>
             </li>
             <li className='after:mx-2 after:text-gray-900 after:relative after:content-["•"]'>
@@ -67,7 +67,7 @@ function HomePage() {
         <h3 className="mb-2 text-3xl font-medium font-oswald">MOST RECENT WORK EXPERIENCE</h3>
 
         <section className="mb-4 space-y-8">
-          {data.workExperience.map((experience) => (
+          {data.workExperience?.map((experience) => (
             <div className="space-y-2" key={experience.company}>
               <section className="mb-4">
                 <h4 className="mb-2 text-2xl font-medium font-oswald text-oswald-500">
@@ -75,9 +75,9 @@ function HomePage() {
                 </h4>
                 <p className="space-x-2 text-base font-bold font-lato">
                   <span>
-                    {experience.dates} | {`{${experience.location}}`}
+                    {experience.dates} | {`${experience.location}`}
                   </span>
-                  <span>{`{${experience.company} - ${experience.type}}`}</span>
+                  <span>{`${experience.company} - ${experience.type}`}</span>
                 </p>
               </section>
 
@@ -95,7 +95,7 @@ function HomePage() {
               <section className="mb-4">
                 <h5 className="text-base font-bold font-lato">KEY ACCOMPLISHMENTS</h5>
                 <ul className="ml-8 list-disc">
-                  {experience.accomplishments.map((accomplishment) => (
+                  {experience.accomplishments?.map((accomplishment) => (
                     <li className="pl-1" key={accomplishment}>
                       {accomplishment}
                     </li>
@@ -109,7 +109,7 @@ function HomePage() {
         <section className="mb-4">
           <h3 className="mb-2 text-xl font-medium font-oswald">TECHNOLOGIES</h3>
           <ul className="grid grid-cols-3 gap-1 ml-6 text-base font-medium list-disc">
-            {data.hardskills.map((skill) => (
+            {data.hardskills?.map((skill) => (
               <li key={skill}>{skill}</li>
             ))}
           </ul>
@@ -118,7 +118,7 @@ function HomePage() {
         <section className="mb-4">
           <h3 className="mb-2 text-xl font-medium font-oswald">SOFT-SKILLS</h3>
           <ul className="grid grid-cols-3 gap-1 ml-6 text-base font-medium list-disc">
-            {data.softskills.map((skill) => (
+            {data.softskills?.map((skill) => (
               <li key={skill}>{skill}</li>
             ))}
           </ul>
@@ -126,7 +126,7 @@ function HomePage() {
 
         <section className="mb-4">
           <h3 className="mb-2 text-xl font-medium font-oswald">EDUCATION</h3>
-          {data.education.map((education) => (
+          {data.education?.map((education) => (
             <div key={education.career}>
               <h4 className="mb-2 text-2xl font-semibold font-oswald text-oswald-500">
                 {education.career}

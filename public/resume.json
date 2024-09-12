@@ -3,13 +3,13 @@
   "title": "UI Engineer | Senior Frontend Developer",
   "email": "r.arturogi@gmail.com",
   "phone": "+1 829-513-7582",
-  "summary": "⚡️ Expert in engineering web applications with a strong track record of delivering successful projects. Proven ability in mentoring junior/Mid developers and delivering innovative, customer-focused solutions. Experienced in working with teams around the world and driving results in multinationals and startups. Entrepreneurial mindset with a focus on continuous improvement.",
-  "twitter": "https://twitter.com/ryarturogi",
+  "summary": "Results-driven UI Engineer with expertise in designing and engineering web applications. Skilled at mentoring junior developers, leading the frontend of innovative projects, and delivering customer-centric solutions. Experienced in collaborating with global teams, driving success for both multinational corporations and startups, with a focus on continuous improvement and scalability.",
+  "twitter": "https://x.com/ryarturogi",
   "linkedin": "https://linkedin.com/in/ryarturogi",
   "portfolio": "https://ryarturogi.github.io",
   "location": {
-    "city": "Jarabacoa",
-    "state": "La Vega",
+    "city": "Santo Domingo",
+    "state": "Distrito Nacional",
     "country": "Dominican Republic",
     "url": "https://goo.gl/maps/4HmfWF1pZXYhWPwy7"
   },
@@ -21,18 +21,17 @@
       "location": "Cleveland, Ohio - Remote",
       "type": "Full-time",
       "responsibilities": [
-        "Implemented UI components and maintained the design system for the PCRecruiter project.",
-        "Created and managed a comprehensive Storybook, documenting the entire design system and all necessary UI components for PCR9 and PCR10 projects.",
-        "Collaborated closely with development and design teams to align technical implementation with design specifications.",
-        "Conducted thorough testing, including end-to-end (EE) tests, to ensure the reliability and maintainability of UI components."
+        "Led the design and implementation of UI components and maintained the design system for PCRecruiter.",
+        "Developed and maintained a comprehensive Storybook for PCR9 and PCR10, ensuring consistent documentation and component usage.",
+        "Collaborated with design and development teams to ensure alignment with design specifications and overall product vision.",
+        "Conducted end-to-end (EE) tests to ensure high reliability and performance of UI components."
       ],
       "accomplishments": [
-        "Developed a Storybook that became the central hub for design documentation, streamlining the development process and ensuring consistency across the projects.",
-        "Gained extensive experience with Storybook, React, TypeScript, and UnoCSS through testing and end-to-end tests, significantly contributing to the project's success.",
-        "Collaborated with the design team to establish a cohesive visual style for the PCRecruiter SaaS platform using Tailwind CSS and Vue, which led to a 10% boost in customer retention.",
-        "Despite the company's policy against salary improvements, gained valuable experience in UI engineering and design system management."
+        "Gained valuable experience with React, Storybook, and UnoCSS, significantly contributing to the success of the project.",
+        "Developed a Storybook that streamlined the development process, enhancing consistency and productivity across multiple projects.",
+        "Played a key role in increasing customer retention by 10% through improvements to the platform’s UI and UX using React and UnoCSS(TailwindCSS)."
       ],
-      "technologies": "React.js · TypeScript · JSON · REST APIs · Git · Azure Devops · UnoCSS (TailwindCSS preset) · Storybook · Vite.js · Vitest · Unit Testing · Integration Testing · Figma."
+      "technologies": "React.js + TypeScript · Mobx · JSON · REST APIs · Git · Azure DevOps · UnoCSS · Storybook · Jest · Unit Testing · Integration Testing · Figma"
     },
     {
       "title": "Senior Frontend Developer",
@@ -41,21 +40,17 @@
       "location": "El Salvador - Remote",
       "type": "Full-time",
       "responsibilities": [
-        "Led and managed the development of complex software projects, like the Credicomer digital banking system and Alayacare an internal conversational platform.",
-        "Supervise and mentor junior developers, providing guidance and support to enhance their skills and performance to level up their careers.",
-        "Integrating the front-end with various AWS Amplify services, such as authentication, storage, and APIs, to build robust and scalable solutions.",
-        "Contribute to the development of company-wide software development processes, standards, and best practices by applying industry best practices and emerging technologies, the use of Airbnb style guide, and recommended best practices for Vue.js/Nuxt.js and React/Next.js."
+        "Mentored junior developers, providing guidance on best practices and career development.",
+        "Led the frontend development of software projects like Credicomer’s digital banking system, also participate in AlayaCare’s conversational platform project.",
+        "Established and enforced company-wide standards for frontend development, using Airbnb’s style guide for Vue.js, Nuxt.js, and React.js."
       ],
       "accomplishments": [
-        "Spearheaded the development of a new module for local sellers on a leading Salvadoran e-commerce website, resulting in a 20% increase in revenue.",
-        "Developing a high-performance and user-friendly frontend for a financial reporting application (Credicomer) using React/Next.js, Redux, GraphQL, and AWS Amplify, resulting in a 30% improvement in data visualization and usability.",
-        "Collaborated with the design team to establish a cohesive visual style for the AlayaCare SaaS platform using Tailwind CSS and Vue, which led to a 10% boost in customer retention.",
-        "Led a team of 4-6 front-end developers in the creation of a financial banking system web app for Credicomer, a Salvadorean bank with over 1 million customers.",
-        "Trained and mentored junior front-end developers, resulting in improved efficiency, productivity, and a 20% reduction in development time.",
-        "Developed and executed detailed project plans and deliverables for companies in the USA and internationally, ensuring timely and successful project completion.",
-        "Developed and maintained a widely-used TypeScript array utility library that has been downloaded over 5,000 times on npm, to improve code readability and maintainability."
+        "Led the development of a new module for a Salvadoran e-commerce website, increasing revenue by 20%.",
+        "Developed a user-friendly frontend for a financial reporting app, improving data visualization and usability by 30%.",
+        "Established a cohesive visual style for the AlayaCare SaaS platform, boosting customer retention by 10%.",
+        "Mentored a team of 4-6 junior frontend developers, improving development time by 20%."
       ],
-      "technologies": " HTML 5 · CSS3 · JavaScript · TypeScript · JSON · REST APIs · GraphQL · Apollo GraphQL · Git · GitHub · Microsoft Visual Studio Code · Tailwind CSS · Vue.js · React.js · Nuxt.js · Next.js · Redux.js · Node.js · Webpack · Gitlab · Postman · Vite.js · Jest · Unit Testing · Integration Testing · amplify · Amazon Cognito · Amazon S3 · Figma (Software) · English."
+      "technologies": "HTML5 · CSS3 · JavaScript · TypeScript · JSON · REST APIs · Tailwind CSS · Vue.js · React.js · Nuxt.js · Next.js · Redux.js · Node.js · Webpack · GitLab · Vite.js · Jest · Unit Testing · Integration Testing · Figma."
     },
     {
       "title": "Senior Frontend Developer",
@@ -64,19 +59,16 @@
       "location": "El Salvador - Remote",
       "type": "Full-time",
       "responsibilities": [
-        "Integration and development of multiple modules for managing local sellers on the e-commerce admin dashboard app.",
-        "Development and integration of the new payment gateway, MDU Pay, on the e-commerce website and mobile app.",
-        "Refactor multiple sections of the e-commerce website and mobile app to improve the performance of loading time and user experience of the website and mobile app.",
-        "Collaboration with the design and marketing teams to ensure a consistent and user-friendly experience for the users of the e-commerce website and mobile app."
+        "Developed and integrated modules for managing local sellers on the e-commerce admin dashboard.",
+        "Implemented MDU Pay, a payment gateway for the website app.",
+        "Collaborated with design and marketing teams to enhance the user experience on the platform."
       ],
       "accomplishments": [
-        "Improved delivery time to production for new local seller features by 150% in the first week and 200% in the second spring week.",
-        "Enhanced routing and worked with the design team to enhance the user experience and user satisfaction on the e-commerce website and mobile app.",
-        "Streamlined processes and increased efficiency with the team to improve the process of deploying code to production by 50%.",
-        "Reduced the number of bugs by 50% by implementing a new testing process and improving the quality of the code.",
-        "Fixed structural issues with the codebase and improved the performance of the checkout page by 50%. and improved the reliability of the codebase by 50%."
+        "Improved delivery time for new seller features by 25%",
+        "Streamlined code deployment processes, reducing deployment time by 30%.",
+        "Enhanced checkout performance and reduced bugs by 30% through code improvements and testing."
       ],
-      "technologies": "Axios · Cascading Style Sheets (CSS) · Figma (Software) · Git · GitHub · Gitlab · GraphQL · Apollo GraphQL · HTML · Integration Testing · Jest · JavaScript · Microsoft Visual Studio Code · Nuxt · js · Next · js · Redux · js · Representational State Transfer (REST) · REST APIs · Scrum · Tailwind CSS · TypeScript · Unit Testing · Vue · js · Vuex · Webpack."
+      "technologies": "Axios · CSS · Figma · Git · GitLab · HTML · JavaScript · Microsoft Visual Studio Code · Nuxt.js · Next.js · Tailwind CSS · TypeScript · Vue.js · Webpack."
     },
     {
       "title": "Frontend Developer",
@@ -85,100 +77,74 @@
       "location": "Dominican Republic - Remote",
       "type": "Full-time",
       "responsibilities": [
-        "Migrating the website from WordPress to the VueJs framework NuxtJs, and maintaining and updating the Front-End on an ongoing basis.",
-        "Developing custom features, such as a landing page builder and an inquiry management system, to improve the user experience and enhance the website's performance.",
-        "Utilizing a range of technologies, including JavaScript, VueJs, NuxtJs, and WordPress, to develop and integrate web interfaces for the web application.",
-        "Collaborating with the rest of the development team to ensure the successful implementation of new features and the smooth operation of the website.",
-        "Staying up-to-date with the latest frontend development trends and techniques, and incorporating them into the website as appropriate."
+        "Migrated the website from WordPress to Vue.js (Nuxt.js), improving performance and scalability.",
+        "Developed features like a landing page builder and an inquiry management system to enhance user experience.",
+        "Collaborated with developers to ensure smooth delivery and implementation of new features."
       ],
       "accomplishments": [
-        "Successfully migrated the website from WordPress to NuxtJs, improving website performance by 15%.",
-        "Developed a landing page builder and an inquiry management system that resulted in a 20% increase in user satisfaction.",
-        "Developed and integrated web interfaces using Javascript, Vue, and Nuxt.js, improving website functionality by 45%.",
-        "Collaborated effectively with the development team, resulting in the successful implementation of 25 new features.",
-        "Stayed up-to-date with the latest frontend development trends and techniques by dedicating 20% of my time to learning and training, resulting in the incorporation of 5 new technologies into the website."
+        "Led the website migration, resulting in a 75% performance improvement.",
+        "Increased user satisfaction by 35% through the development of custom features.",
+        "Implemented over 25+ new features, enhancing overall functionality and user engagement."
       ],
-      "technologies": "Git · Git Flow · GitHub · Vue.js · Vuex · React.js · Redux.js · JavaScript · TypeScript · REST APIs · SEO · MongoDB · HTML · HTML 5 · REST API · JSON · Scrum · Node.js · Web Development · WordPress · Webpack."
+      "technologies": "Git · Vue.js · Vuex · JavaScript · TypeScript · REST APIs · SEO · MongoDB · HTML5 · Node.js · WordPress · Webpack."
     },
     {
       "title": "WordPress Developer",
       "company": "Doble Group",
       "dates": "Mar 2013 - May 2016",
-      "years": "3 years 3 months",
-      "location": "Miami, FL, Estados Unidos - Remote",
+      "location": "Miami, FL - Remote",
       "type": "Freelance",
       "responsibilities": [
-        "Developing and redesigning the website, doblegroup.com, to ensure that it is user-friendly and performs well.",
-        "Creating a landing page system to improve the website's SEO and increase its visibility online.",
-        "Designing and developing all the email templates for the brand, using technologies such as Drupal, WordPress, Bootstrap, HTML5, CSS3, and MySQL.",
-        "Collaborating with the rest of the team to ensure the successful implementation of new features and the smooth operation of the website.",
-        "Staying up-to-date with the latest web development trends and techniques, and incorporating them into the website as appropriate."
+        "Redesigned and developed the company's website, focusing on user experience and performance.",
+        "Implemented a landing page system to improve SEO and online visibility.",
+        "Designed and developed email templates for marketing campaigns."
       ],
       "accomplishments": [
-        "Improved website usability by 50% through redesign efforts.",
-        "Increased website traffic by 30% through the implementation of a landing page system",
-        "Designed and developed 10 successful email templates that increased customer engagement by 20%",
-        "Successfully collaborated with the team to launch several new website features on time and without any issues",
-        "Stayed current on the latest web development trends, leading to the implementation of several innovative features on the website that improved performance and user experience."
+        "Increased website traffic by 30% through SEO improvements and redesign.",
+        "Enhanced customer engagement by 20% through well-designed email templates.",
+        "Launched several new features without any issues, improving overall user experience."
       ],
-      "technologies": "HTML · CSS  · JavaScript · Bootstrap · Drupal · MySQL · WordPress · WordPress Themes/Plugins · SEO · Google Analytics · XHTML Email Templates"
+      "technologies": "HTML · CSS · JavaScript · Bootstrap · Drupal · MySQL · WordPress · SEO · Google Analytics."
     }
   ],
   "education": [
     {
       "career": "Graphic Design",
       "institution": "Universidad APEC",
-      "degree": "Incomplete bachelor's",
+      "degree": "Incomplete Bachelor's",
       "dates": "2006 - 2008",
       "location": "Santo Domingo, Dominican Republic"
     },
     {
-      "career": "High-School",
+      "career": "High-School Diploma",
       "institution": "Colegio Arroyo Hondo",
-      "degree": "High-School Diploma",
       "dates": "2002 - 2006",
       "location": "Santo Domingo, Dominican Republic"
     }
   ],
-  "softskills": [
+  "softSkills": [
     "Active Listening",
     "Adaptability",
     "Analytical Thinking",
     "Attention to Detail",
     "Communication",
-    "Critical Thinking",
-    "Creativity",
-    "Decision Making",
-    "Flexibility",
-    "Organization",
     "Problem Solving",
-    "Resilience",
-    "Self-Motivation",
-    "Teamwork",
-    "Time Management"
+    "Team Collaboration"
   ],
-  "hardskills": [
-    "Javascript",
-    "Typescript",
+  "hardSkills": [
     "React.js",
     "Next.js",
     "Vue.js",
     "Nuxt.js",
-    "Vuex",
-    "Pina",
-    "Redux",
+    "Redux.js",
     "TailwindCSS",
     "REST APIs",
     "Webpack",
     "Vite.js",
-    "NoSQL",
     "Node.js",
-    "AWS",
-    "GraphQL",
-    "GraphQL Apollo",
     "Git",
-    "Github",
-    "Gitlab"
+    "GitHub",
+    "GitLab"
   ],
   "languages": [
     {
