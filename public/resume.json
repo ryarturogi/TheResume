@@ -122,7 +122,7 @@
       "location": "Santo Domingo, Dominican Republic"
     }
   ],
-  "softSkills": [
+  "softskills": [
     "Active Listening",
     "Adaptability",
     "Analytical Thinking",
@@ -131,7 +131,7 @@
     "Problem Solving",
     "Team Collaboration"
   ],
-  "hardSkills": [
+  "hardskills": [
     "React.js",
     "Next.js",
     "Vue.js",
